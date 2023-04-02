@@ -1,0 +1,10 @@
+
+
+
+.modal input[type=text] {
+ width: 60%;
+}
+.modal textarea{
+ width: 60%;
+ resize: none;
+}

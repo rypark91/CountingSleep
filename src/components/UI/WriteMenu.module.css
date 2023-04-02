@@ -1,0 +1,16 @@
+
+ .modal input[type=text] {
+   width: 60%;
+ }
+ .modal textarea{
+   width: 60%;
+   resize: none;
+ }
+ input[type=time]{
+  width: 100px;
+  height: 15px;
+  font-size: 15px;
+ }
+ label{
+  font-size: 20px;
+ }

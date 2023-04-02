@@ -1,0 +1,17 @@
+.editMenu{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(179, 218, 255);
+    /* display: inline-block; */
+    text-align: left;
+    font-size: 12px;
+    float: right;
+    
+}
+
+.editMenu span{
+    cursor: pointer;
+    text-align: center;
+    
+    
+}
